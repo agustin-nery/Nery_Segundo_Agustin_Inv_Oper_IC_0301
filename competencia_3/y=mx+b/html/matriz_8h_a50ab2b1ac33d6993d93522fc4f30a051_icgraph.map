@@ -1,0 +1,6 @@
+<map id="printMatrix" name="printMatrix">
+<area shape="rect" id="node1" title="Funcion para imprimir matriz." alt="" coords="276,24,359,51"/>
+<area shape="rect" id="node2" href="$aplicacion_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,24,56,51"/>
+<area shape="rect" id="node3" href="$matriz_8h.html#a5c5ab2d2c2f6a0c5b1e091d7ab04e1a4" title="Funcion para Deducir la solución de espacio nulo." alt="" coords="104,24,228,51"/>
+<area shape="rect" id="node4" href="$matriz_8h.html#ac6bb81d91ab4ff212116a039ee137208" title="Funcion para Convertir una matriz a forma real." alt="" coords="146,75,186,101"/>
+</map>

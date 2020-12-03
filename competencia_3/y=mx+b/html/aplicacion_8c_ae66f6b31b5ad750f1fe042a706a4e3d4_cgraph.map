@@ -1,0 +1,14 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,56,184"/>
+<area shape="rect" id="node2" href="$matriz_8h.html#a161a27b1f33746fdc45338e5ade601cc" title="Funciones para agregar una nueva matriz." alt="" coords="291,5,372,32"/>
+<area shape="rect" id="node3" href="$matriz_8h.html#a5c5ab2d2c2f6a0c5b1e091d7ab04e1a4" title="Funcion para Deducir la solución de espacio nulo." alt="" coords="104,107,228,133"/>
+<area shape="rect" id="node6" href="$matriz_8h.html#a50ab2b1ac33d6993d93522fc4f30a051" title="Funcion para imprimir matriz." alt="" coords="290,259,373,285"/>
+<area shape="rect" id="node9" href="$matriz_8h.html#a9d83a433f893c22acd4426029033b428" title="Funcion para Deducir una solución particular." alt="" coords="105,5,227,32"/>
+<area shape="rect" id="node10" href="$matriz_8h.html#aefd56b2b01880c36d798251ce1b3ca4a" title="Funcion leer matriz." alt="" coords="125,309,207,336"/>
+<area shape="rect" id="node11" href="$matriz_8h.html#ac6bb81d91ab4ff212116a039ee137208" title="Funcion para Convertir una matriz a forma real." alt="" coords="146,208,186,235"/>
+<area shape="rect" id="node12" href="$matriz_8h.html#a7b8a882994d366fd5583d8c177d1fc1b" title="Funcion para comprobar si hay inconsistencias." alt="" coords="114,157,218,184"/>
+<area shape="rect" id="node4" href="$matriz_8h.html#a39137543a69166fe5ba87ec7cfa7265a" title="Compruebe si un número es aproximadamente cero, hasta un umbral. Se usa para lidiar con problemas de ..." alt="" coords="303,208,360,235"/>
+<area shape="rect" id="node5" href="$matriz_8h.html#abd8bbcfabb3ddef2ccaafb9928a37b95" title=" " alt="" coords="310,56,353,83"/>
+<area shape="rect" id="node7" href="$matriz_8h.html#a34641ecbcd5103e5a3290e31d15818e9" title="Funcion para cambiar dos columnas de la matriz." alt="" coords="276,107,387,133"/>
+<area shape="rect" id="node8" href="$matriz_8h.html#af6576ddb0fffc6fad1c0d962d88ce707" title="Funcion para cambiar dos filas de la matriz." alt="" coords="286,157,377,184"/>
+</map>

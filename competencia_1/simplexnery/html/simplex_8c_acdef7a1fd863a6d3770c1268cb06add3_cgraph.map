@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,56,83"/>
+<area shape="rect" id="node2" href="$simplex_8h.html#a08e54d319774ae5d7e0bbffd69a267a9" title=" " alt="" coords="114,5,163,32"/>
+<area shape="rect" id="node3" href="$simplex_8c.html#a1e3530859f2031a68cf9bdcdb4fed046" title="Funcion para los resultados." alt="" coords="105,56,172,83"/>
+<area shape="rect" id="node4" href="$simplex_8c.html#a7576249cc361d04c1414ed0ddee13fc6" title="Funciones principales del programa simplex." alt="" coords="104,107,173,133"/>
+<area shape="rect" id="node5" href="$simplex_8c.html#af5782cac04d23715f78e3a0def45fafe" title="Funcion formula." alt="" coords="224,56,293,83"/>
+<area shape="rect" id="node6" href="$simplex_8c.html#a2035ba0afa36778a6f4f664af777e7e6" title="Funcion de optimizaciones." alt="" coords="221,107,296,133"/>
+<area shape="rect" id="node7" href="$simplex_8c.html#a177320b9bf89b354f69308375a6a2b24" title="Funcion pivote." alt="" coords="233,157,284,184"/>
+</map>
