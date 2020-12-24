@@ -1,0 +1,8 @@
+<map id="getName" name="getName">
+<area shape="rect" id="node1" title="leer el nombre hasta el final de la entrada" alt="" coords="280,81,355,108"/>
+<area shape="rect" id="node2" href="$linea__de__espera_8h.html#ac866e396a9feded35a237ba674e078a6" title="obtener el tamano del grupo de la entrada" alt="" coords="135,5,201,32"/>
+<area shape="rect" id="node4" href="$linea__de__espera_8h.html#a9b0c11a2152e95d7f4e2837c82c22e3d" title="Funcion para cambiar el estado a espera en el supermercado." alt="" coords="104,56,232,83"/>
+<area shape="rect" id="node5" href="$linea__de__espera_8h.html#ab0b5489dbd248f3dbe4aa1480f82a985" title="obtener el nombre del grupo de la entrada" alt="" coords="126,107,210,133"/>
+<area shape="rect" id="node6" href="$linea__de__espera_8h.html#aaa29718b98748df03e36b9b3204b69d0" title="Funcion para relaizar una llamada a la cabecera de la linea de espera." alt="" coords="109,157,227,184"/>
+<area shape="rect" id="node3" href="$main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,81,56,108"/>
+</map>

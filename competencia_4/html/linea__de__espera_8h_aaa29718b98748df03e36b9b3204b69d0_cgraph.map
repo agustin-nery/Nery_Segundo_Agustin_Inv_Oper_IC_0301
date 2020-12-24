@@ -1,0 +1,7 @@
+<map id="llamar_cabecera" name="llamar_cabecera">
+<area shape="rect" id="node1" title="Funcion para relaizar una llamada a la cabecera de la linea de espera." alt="" coords="5,81,123,108"/>
+<area shape="rect" id="node2" href="$linea__de__espera_8h.html#a0e57b07db631377f6941efc6cf547614" title="Agrega una caja a la lista @ todo si la lista esta vacia, crea un nuevo nodo @ todo De lo contrario,..." alt="" coords="173,5,291,32"/>
+<area shape="rect" id="node3" href="$linea__de__espera_8h.html#a647eb433d92b4a1d2d4615bef01f07a0" title="leer el nombre hasta el final de la entrada" alt="" coords="195,56,269,83"/>
+<area shape="rect" id="node4" href="$linea__de__espera_8h.html#a4d261a5343f1fe54a70e377a7a4ddb41" title=" " alt="" coords="193,107,271,133"/>
+<area shape="rect" id="node5" href="$linea__de__espera_8h.html#a85a3af74e77ee485ddede8426e6ea358" title="Comprueba si el nombre esta en la lista." alt="" coords="171,157,293,184"/>
+</map>

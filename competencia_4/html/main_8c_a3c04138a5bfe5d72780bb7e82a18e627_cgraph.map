@@ -1,0 +1,21 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,335,56,361"/>
+<area shape="rect" id="node2" href="$linea__de__espera_8h.html#ac866e396a9feded35a237ba674e078a6" title="obtener el tamano del grupo de la entrada" alt="" coords="136,208,203,235"/>
+<area shape="rect" id="node7" href="$linea__de__espera_8h.html#a9b0c11a2152e95d7f4e2837c82c22e3d" title="Funcion para cambiar el estado a espera en el supermercado." alt="" coords="105,157,233,184"/>
+<area shape="rect" id="node9" href="$linea__de__espera_8h.html#aef5e4c05b5233f4cf35bb828e29dfc8b" title="definicion avanzada de funciones" alt="" coords="323,436,413,463"/>
+<area shape="rect" id="node10" href="$linea__de__espera_8h.html#ab0b5489dbd248f3dbe4aa1480f82a985" title="obtener el nombre del grupo de la entrada" alt="" coords="127,107,211,133"/>
+<area shape="rect" id="node13" href="$linea__de__espera_8h.html#a7fe8e650b6bbdd22aec89bff5bed9548" title=" " alt="" coords="107,309,232,336"/>
+<area shape="rect" id="node14" href="$linea__de__espera_8h.html#a38c356eeb9cda06ce886061da7242577" title="Funcion que imprime la lista de comandos de este programa." alt="" coords="104,461,235,488"/>
+<area shape="rect" id="node15" href="$linea__de__espera_8h.html#aaa29718b98748df03e36b9b3204b69d0" title="Funcion para relaizar una llamada a la cabecera de la linea de espera." alt="" coords="111,259,228,285"/>
+<area shape="rect" id="node16" href="$linea__de__espera_8h.html#aeff4282f6745a1bcf48fbc5cc1925e72" title="Funcion para mostrar la informacion de todos los grupos de las cajas." alt="" coords="136,512,203,539"/>
+<area shape="rect" id="node17" href="$linea__de__espera_8h.html#a1713d4e0449d0cc2ea807b4a387d0488" title="Funcion para mostrar la informacion de la caja." alt="" coords="297,537,439,564"/>
+<area shape="rect" id="node18" href="$linea__de__espera_8h.html#a466695a37edbd0d1ae10da68e2c91dce" title="Funcion para recuperar datos de la linea de espera." alt="" coords="129,360,210,387"/>
+<area shape="rect" id="node3" href="$linea__de__espera_8h.html#a0e57b07db631377f6941efc6cf547614" title="Agrega una caja a la lista @ todo si la lista esta vacia, crea un nuevo nodo @ todo De lo contrario,..." alt="" coords="309,259,427,285"/>
+<area shape="rect" id="node4" href="$linea__de__espera_8h.html#a647eb433d92b4a1d2d4615bef01f07a0" title="leer el nombre hasta el final de la entrada" alt="" coords="331,157,405,184"/>
+<area shape="rect" id="node5" href="$linea__de__espera_8h.html#a4d261a5343f1fe54a70e377a7a4ddb41" title=" " alt="" coords="329,309,407,336"/>
+<area shape="rect" id="node6" href="$linea__de__espera_8h.html#a85a3af74e77ee485ddede8426e6ea358" title="Comprueba si el nombre esta en la lista." alt="" coords="307,208,429,235"/>
+<area shape="rect" id="node8" href="$linea__de__espera_8h.html#a89ec907883e91c513dfe14cca824be91" title="Funcion para cambiar el estado a espera en el supermercado." alt="" coords="311,107,425,133"/>
+<area shape="rect" id="node11" href="$linea__de__espera_8h.html#a2c7b7391421c68bd265b074d9912a9f4" title="Cuenta los grupos que esperan delante de un grupo determinado en la caja." alt="" coords="283,5,453,32"/>
+<area shape="rect" id="node12" href="$linea__de__espera_8h.html#a602805f99e862387b34939631ea80be2" title="Imprime tamaños de grupos que esperan delante de un grupo determinado." alt="" coords="293,56,443,83"/>
+<area shape="rect" id="node19" href="$linea__de__espera_8h.html#a7102da7dfd1ef8c63133912b7cba7e0c" title="elimina un grupo con un tamano menor o igual al tama�o de la tabla disponible" alt="" coords="285,360,451,387"/>
+</map>
